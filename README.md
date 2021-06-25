@@ -2,7 +2,7 @@
 
 I'm a software engineer. I also do a lot of devops work. Check out a few of the things I am working on below.
 
-### Reach out 📫 
+### Or reach out  
 
 [<img align="left" alt="www.jacobpleiness.com" width="22" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="jacobpleiness | Twitter" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
